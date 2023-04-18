@@ -25,7 +25,7 @@ Basically this version uses a better encryption method by using special characte
 </ul>
 
 <h2 id="Website">Website</h2>
-Get a full view of the project <a href="https://caviar9045.github.io/ONE-Encode-Decode-Challenge/" target="_blank">here</a>.
+Get a full view of the project <a href="https://caviar9045.github.io/ONE-Encode-Decode-Challenge-V2/" target="_blank">here</a>.
 
 <h2 id="Features">Features</h2>
 <ul>
